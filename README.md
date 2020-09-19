@@ -1,2 +1,2 @@
 # vimrc
-My Vim configuration.
+My Vim configuration with Molokai theme and a cursorline.
